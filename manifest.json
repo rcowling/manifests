@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "https://cchi-iif.mtu.edu/manifest.json",
+  "id": "https://mtu-vpol.github.io/manifests/manifest.json",
   "type": "Manifest",
   "label": { "en": ["Map 001-0002"] },
   "items": [
