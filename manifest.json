@@ -9,8 +9,8 @@
     {
       "id": "https://cchi-iif.mtu.edu/iiif/3/map_001-0002.tif/canvas",
       "type": "Canvas",
-      "height": 4000,
-      "width": 6000,
+      "height": 18734,
+       "width": 17000,
       "items": [
         {
           "id": "https://cchi-iif.mtu.edu/iiif/3/map_001-0002.tif/page",
@@ -24,8 +24,8 @@
                 "id": "https://cchi-iif.mtu.edu/iiif/3/map_001-0002.tif/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 4000,
-                "width": 6000,
+                "height": 18734,
+                "width": 17000,
                 "service": [
                   {
                     "id": "https://cchi-iif.mtu.edu/iiif/3/map_001-0002.tif",
