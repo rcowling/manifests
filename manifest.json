@@ -21,14 +21,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://cchi-iif.mtu.edu/iiif/3/map_001-0002.tif/full/max/0/default.jpg",
+                "id": "https://cchi-iif.mtu.edu/iiif/3/map_001-0002.tif/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 18734,
                 "width": 17000,
                 "service": [
                   {
-                    "id": "http://cchi-iif.mtu.edu/iiif/3/map_001-0002.tif",
+                    "id": "https://cchi-iif.mtu.edu/iiif/3/map_001-0002.tif",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
